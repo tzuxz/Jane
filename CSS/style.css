@@ -94,7 +94,6 @@
         width: 100%;
     }
     
-
     .navigation ul li {
         display: block;
         font-size: 1rem;
@@ -105,7 +104,6 @@
         border-bottom: none;
     }
     
-
     .main-container {
         padding: 0.75rem;
         width: 100%;
@@ -140,8 +138,7 @@
 
 @media (min-width: 1024px){
 
-    .image-container {   
-        clip-path: circle(50% at 50% 50%);
+    .image-container {
         background-image: url('../img/profile4.jpg');
     }
 
@@ -161,7 +158,6 @@
 @media (min-width: 1200px){
 
     .image-container {   
-        clip-path: circle(50% at 50% 50%);
         background-image: url('../img/profile1.jpg');
     }
 
